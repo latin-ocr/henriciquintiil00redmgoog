@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./henriciquintiil00redmgoog_0010.png"; bbox 0 0 3400 5709; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 807 4712 939 4765">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 807 4712 939 4765">
+     <span class='ocr_line' id='line_1_1' title="bbox 807 4712 939 4765; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 807 4712 939 4765; x_wconf 81' lang='lat' dir='ltr'><strong>Printedb</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 536 4732 1311 4918">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 536 4732 1311 4918">
+     <span class='ocr_line' id='line_1_2' title="bbox 536 4732 1311 4849; baseline 0 -18"><span class='ocrx_word' id='word_1_2' title='bbox 536 4780 615 4843; x_wconf 69' lang='lat' dir='ltr'><strong>Em</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 626 4780 906 4843; x_wconf 71' lang='lat' dir='ltr'><strong>andSrofflswoonn,</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 918 4732 1240 4849; x_wconf 47' lang='lat' dir='ltr'><strong>H1rMajestfsPrjnters.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1307 4825 1311 4831; x_wconf 85' lang='lat'><em>.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 582 4848 1133 4918; baseline 0.007 -19"><span class='ocrx_word' id='word_1_6' title='bbox 582 4848 585 4853; x_wconf 80' lang='grc'><em>“</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 629 4852 681 4899; x_wconf 74' lang='lat' dir='ltr'><strong>For</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 690 4848 745 4901; x_wconf 85' lang='lat' dir='ltr'><strong>Her</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 754 4848 884 4915; x_wconf 74' lang='lat' dir='ltr'>Majesty’s</span> <span class='ocrx_word' id='word_1_10' title='bbox 895 4848 1038 4918; x_wconf 77' lang='lat' dir='ltr'><strong>Stationery</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1049 4852 1133 4903; x_wconf 61' lang='lat' dir='ltr'>Office„</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1704 5709">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1704 5709">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1704 5709; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1704 5709; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
